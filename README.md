@@ -1,4 +1,4 @@
-# technologies used in the project
+# Technologies used in the project
 
 Firebase
 React Hooks
