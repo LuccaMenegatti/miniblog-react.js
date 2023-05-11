@@ -1,10 +1,10 @@
 # Technologies used in the project
 
-Firebase
-React Hooks
-React Components
+-Firebase
+-React Hooks
+-React Components
 
-#Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
